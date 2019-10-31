@@ -4,5 +4,5 @@
   "workdir" : "..",
   "host-init" : "build.sh",
   "overlay" : "overlay",
-  "command" : "coremark.riscv"
+  "command" : "./coremark.riscv"
 }
