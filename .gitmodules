@@ -1,0 +1,3 @@
+[submodule "riscv-coremark"]
+	path = riscv-coremark
+	url = https://github.com/riscv-boom/riscv-coremark.git
