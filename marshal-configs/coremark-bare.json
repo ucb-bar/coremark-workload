@@ -3,5 +3,6 @@
   "base" : "bare",
   "workdir" : "..",
   "host-init" : "build.sh",
+  "cpus" : "1",
   "bin" : "./riscv-coremark/coremark.bare.riscv"
 }
